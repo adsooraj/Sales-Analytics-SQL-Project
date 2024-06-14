@@ -54,4 +54,4 @@ similar approach to ProductTable. It has four columns named Area Code, State, Ma
 27. Display the date, product ID and sales where total expenses are
     between 100 to 200.
 28. Delete the records in the Product Table for regular type.
-29. Display the ASCII value of the fifth character from the
+29. Display the ASCII value of the fifth character from the columnProduct
